@@ -1,0 +1,15 @@
+.the{
+    background-color: #ccccff;
+}
+.register{
+  margin-top: 50px;
+  margin-bottom: 50px
+}
+input{
+  border-color: rgba(0, 0, 104, 1);
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) inset, 0 0 8px rgba(126, 239, 104, 0.6);
+  outline: 0 none;
+}
+p{
+  margin-top: 50px;
+}
